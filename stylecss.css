@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgba(172, 170, 169, 0.267);
+}
+
+h4,h5,p:not(.lead) {
+    color: #434E5E;
+}
+/* classe pour aligner la ligne hr compétences */
+.hrcomp { 
+margin-top: 2rem;
+}
+/* classe pour aligner la ligne parcours pro */
+.hrparc { 
+    margin-top: 1rem;
+    }
+.loisir {
+    margin-left: 1.5rem;
+}
+
+.adresse {
+    border: blueviolet 1px solid;
+    /* width: 100% ;
+    height: 200px; */
+    display: inline-block !important ;
+    vertical-align: text-top;
+}
+
+.linkedin{
+    text-align: right;
+}
